@@ -100,5 +100,5 @@ Now you have got the CSI availability of Netgear WNDR3700v4.
 
 This is an extension of the Atheros CSI Tool in OpenWRT developed by Dr. Yaxiong Xie. Please refer to his [GitHub](https://github.com/xieyaxiongfly/Atheros_CSI_tool_OpenWRT_src) for more information.
 
-This project is maintained by Mr. Shengkai Zhang  
+This project is maintained by Mr. Shengkai Zhang.  
 GitHub: [https://github.com/ClarenceZSK](https://github.com/ClarenceZSK)
