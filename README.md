@@ -1,4 +1,4 @@
-# OpenWRT_Atheros_CSI_Tool_for_Netgear_WNDR3700v4
+# OpenWRT Atheros CSI Tool for Netgear WNDR3700v4
 We modified the openWRT source code that embeds Atheros CSI tool to let it work for Netgear WNDR3700v4, which is not supported by [the release](https://github.com/xieyaxiongfly/Atheros_CSI_tool_OpenWRT_src) of Dr. Yaxiong Xie.
 
 If you are interested in Atheros CSI tool, please refer to [the maintenance page](http://pdcc.ntu.edu.sg/wands/Atheros/) for more information.
@@ -99,3 +99,6 @@ ar9003_csi        94596   1  ath9k_hw
 Now you have got the CSI availability of Netgear WNDR3700v4.
 
 This is an extension of the Atheros CSI Tool in OpenWRT developed by Dr. Yaxiong Xie. Please refer to his [GitHub](https://github.com/xieyaxiongfly/Atheros_CSI_tool_OpenWRT_src) for more information.
+
+- This project is maintained by Mr. Shengkai Zhang
+- Email: [shengkai.zhang@gmail.com](mailto:shengkai.zhang@gmail.com)
