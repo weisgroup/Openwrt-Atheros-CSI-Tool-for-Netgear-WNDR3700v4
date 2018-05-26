@@ -29,7 +29,7 @@ zlib-bin zlibc zlib-gst ccache distcc gcc-multilib g++-multilib bin86 libtool ga
 #### Download and update
 To begin with, you must operate as a normal user: (NOT ROOT). First of all, use git to download the source code:
 ```
-$ git clone https://github.com/ClarenceZSK/Openwrt_Atheros_CSI_Tool_for_Netgear_WNDR3700v4.git
+$ git clone https://github.com/weisgroup/Openwrt-Atheros-CSI-Tool-for-Netgear-WNDR3700v4.git
 ```
 Please note that in order to avoid the error like “cannot find the file” showing up, you’d better git the source code to /home/$(username) directory, and we will take this path as default for all later commands. Enter folder containing the source code:
 ```
